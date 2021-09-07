@@ -151,3 +151,31 @@ const int INF = 2; // it doesn't actually have to be infinity or a big number
   }
 
   [Linear algebra source code](https://cp-algorithms.com/linear_algebra/linear-system-gauss.html)
+
+>In numerical analysis, a numerical method is a mathematical tool designed to solve numerical problems. The implementation of a numerical method with an appropriate convergence check in a programming language is called a numerical algorithm.
+
+[Numerical method](https://en.wikipedia.org/wiki/Numerical_method)
+
+  double ternary_search(double l, double r)   
+  {  
+  double eps = 1e-9;  
+  //set the error limit here  
+  while (r - l > eps)  
+  {  
+  double m1 = l + (r - l) / 3;  
+  double m2 = r - (r - l) / 3;  
+  double f1 = f(m1);  
+  //evaluates the function at m1  
+  double f2 = f(m2);  
+  //evaluates the function at m2  
+  if (f1 < f2)  
+  l = m1;  
+  else  
+  r = m2;  
+  }  
+  return f(l);  
+  //return the maximum of f(x) in [l, r]  
+  }
+
+  [Numerical method source code](https://cp-algorithms.com/num_methods/ternary_search.html)
+  
