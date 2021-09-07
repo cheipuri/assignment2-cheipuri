@@ -92,4 +92,9 @@ void calc (int x = 0, int y = 0, int mask = 0, int next_mask = 0)
 
   cout << dp[n][0];  
   }
+
+  [Dynamic programming source code](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
+
+
+
  
