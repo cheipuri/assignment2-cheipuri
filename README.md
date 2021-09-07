@@ -5,7 +5,7 @@
 
 ---
 ## Maryville to Hollywood.
-    1. Directions for Newyork city.
+    1. Directions for Hollywood.
         1. start in Maryville (Missouri) drive for about 2.5 hours
         2. Lincoln (Nebraska).
         3. Lincoln to  North Platte.
