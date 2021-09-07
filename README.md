@@ -32,9 +32,8 @@
 This table shows location and Amount of Foods.
 
 | *Food*                | *Location*      | *Amount*         |
-| ----------------------- | ----------------- | ------------------ |
-| Biryani                 | Hyderabad         | 200 INR            |
-| Kachori                 | Kolkata           | 150 INR            |
-| Chole Bature            | Delhi             | 100 INR            |
-| Dosa                    | Chennai           | 100 INR            |
-    
+| -----------------------  | ----------------- | ------------------ |
+| Biryani                  | Hyderabad         | 230 INR            |
+| rasgulla                 | Kolkata           | 10 INR             |
+| Paranthas                | Delhi             | 80 INR             |
+| samber idli              | Chennai           | 45 INR             |
