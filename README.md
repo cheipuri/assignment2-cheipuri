@@ -25,3 +25,16 @@
 ---
 
 [About me](AboutMe.md)
+
+---
+# Food Table
+
+This table shows location and Amount of Foods.
+
+| *Food*                | *Location*      | *Amount*         |
+| ----------------------- | ----------------- | ------------------ |
+| Biryani                 | Hyderabad         | 200 INR            |
+| Kachori                 | Kolkata           | 150 INR            |
+| Chole Bature            | Delhi             | 100 INR            |
+| Dosa                    | Chennai           | 100 INR            |
+    
