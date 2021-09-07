@@ -149,3 +149,5 @@ const int INF = 2; // it doesn't actually have to be infinity or a big number
   return INF;  
   return 1;  
   }
+
+  [Linear algebra source code](https://cp-algorithms.com/linear_algebra/linear-system-gauss.html)
